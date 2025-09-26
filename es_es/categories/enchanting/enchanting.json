@@ -1,0 +1,6 @@
+{
+    "name": "Módulo de Encantamiento",
+    "description": "El Módulo de Encantamiento es responsable de todos los cambios en el sistema de encantamientos.$(p)Hay mucho contenido, así que explora bien.",
+    "icon": "minecraft:enchanting_table",
+    "flag": "zenith:enchanting"
+}

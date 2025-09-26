@@ -1,0 +1,8 @@
+{
+    "name": "Progresión de Niveles",
+    "description": "Esta sección ofrece una visión general de cómo mejorar tu Mesa de Encantamientos.",
+    "icon": "zenith:dormant_deepshelf",
+    "flag": "zenith:enchanting",
+    "parent": "zenith:enchanting/enchanting",
+    "sortnum": -1
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Módulo de Jardinería",
+    "description": "El Módulo de Jardinería se encarga de cambiar aspectos aleatorios de las plantas.",
+    "icon": "minecraft:sugar_cane",
+    "flag": "zenith:garden"
+}

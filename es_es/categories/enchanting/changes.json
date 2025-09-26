@@ -1,0 +1,7 @@
+{
+    "name": "Cambios de Vanilla",
+    "description": "Esta sección abarca los nuevos objetos encantables y los cambios mecánicos.$(p)Si ocurre algún cambio menor de contenido, se anotará aquí.",
+    "icon": "minecraft:trident",
+    "flag": "zenith:enchanting",
+    "parent": "zenith:enchanting/enchanting"
+}
