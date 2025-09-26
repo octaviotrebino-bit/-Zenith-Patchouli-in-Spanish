@@ -1,0 +1,17 @@
+{
+    "name": "División",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/anvil",
+    "flag": "zenith:enchanting",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)División$() es un encantamiento completamente nuevo exclusivo del yunque.$(p)Un yunque de división es capaz de \"dividir\" libros encantados con múltiples encantamientos en una serie de libros individuales."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Para usar un yunque de división, lanza un libro encantado al mundo y coloca el yunque de manera que caiga sobre el libro.$(p)Un libro con Filo III y Botín II que se divida se convertiría en dos libros, uno con Filo III y otro con Botín II."
+        }
+    ]
+}

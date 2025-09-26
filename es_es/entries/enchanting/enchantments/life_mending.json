@@ -1,0 +1,17 @@
+{
+  "name": "Life Mending",
+  "icon": "minecraft:enchanted_book",
+  "category": "zenith:enchanting/enchantments",
+  "flag": "zenith:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(4)Life Mending$() es un encantamiento corrupto aplicable a todos los objetos dañables.$(p)Mientras que $(9)Mending$() convierte la experiencia recibida en durabilidad, $(4)Life Mending$() convierte la sanación recibida en durabilidad.$(p)La durabilidad por punto de salud aumenta con el nivel."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Además, este encantamiento se puede encontrar en la Mesa de Encantamientos."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Icy Thorns",
+  "icon": "minecraft:enchanted_book",
+  "category": "zenith:enchanting/enchantments",
+  "flag": "zenith:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Icy Thorns$() es un encantamiento de pechera.$(p)Aplica lentitud a los atacantes. La duración y la fuerza escalan con el nivel de encantamiento.$(p)Es exclusivo con $(9)Thorns$()."
+    }
+  ]
+}

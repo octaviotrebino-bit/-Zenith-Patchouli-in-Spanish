@@ -1,0 +1,13 @@
+{
+  "name": "Pesca con arpón",
+  "icon": "minecraft:enchanted_book",
+  "category": "zenith:enchanting/enchantments",
+  "flag": "zenith:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Pesca con arpón$() es un encantamiento de tridente.$(p)Otorga a las muertes con un tridente lanzado un 3,5% de probabilidad por nivel de soltar algunos peces aleatorios."
+    }
+  ]
+}

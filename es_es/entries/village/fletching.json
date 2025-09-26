@@ -1,0 +1,44 @@
+{
+    "name": "Mesa de Flechas",
+    "icon": "minecraft:fletching_table",
+    "category": "zenith:village/village",
+    "flag": "zenith:village",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Zenith introduce un nuevo tipo de crafteo llamado $(9)Mesa de Flechas$().$(p)Te permite hacer flechas de manera más eficiente.$(p)Junto con el nuevo crafteo, también hay nuevas flechas."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "zenith:obsidian_arrow",
+            "link_recipe": true,
+            "text": "La $(9)Flecha de Obsidiana$() es una mejora directa a la flecha estándar.$(p)Hace que todos los ataques a distancia inflijan un 20% de daño extra."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "zenith:broadhead_arrow",
+            "anchor": "broadhead",
+            "link_recipe": true,
+            "text": "La $(9)Flecha de Punta Ancha$() es la mejor para combates prolongados.$(p)Cada impacto aplica sangrado. Cada impacto adicional refresca la duración y aumenta el nivel de sangrado en el objetivo."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "zenith:explosive_arrow",
+            "link_recipe": true,
+            "text": "La $(9)Flecha Explosiva$() es la mejor contra grupos.$(p)Provoca una explosión al impactar."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "zenith:iron_mining_arrow",
+            "link_recipe": true,
+            "text": "La $(9)Flecha Minera de Hierro$() es como un pico volador.$(p)Todos los bloques golpeados con esta flecha son minados como si fueran rotos con un Pico de Hierro."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "zenith:diamond_mining_arrow",
+            "link_recipe": true,
+            "text": "¡La $(9)Flecha Minera de Diamante$() es un pico volador mejorado!$(p)Todos los bloques golpeados con esta flecha son minados como si fueran rotos con un Pico de Diamante."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Irrompible",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/anvil",
+    "flag": "zenith:enchanting",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Irrompible$() ahora puede aplicarse a los yunques.$(p)Cada nivel de Irrompible reduce la probabilidad de que el yunque se dañe al usarlo (o al caer)."
+        }
+    ]
+}

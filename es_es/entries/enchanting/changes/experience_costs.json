@@ -1,0 +1,17 @@
+{
+    "name": "Costos de Experiencia",
+    "icon": "minecraft:experience_bottle",
+    "category": "zenith:enchanting/changes",
+    "flag": "zenith:enchanting",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "En Vanilla, los elementos que cuestan niveles (mesas de encantamiento y yunques) toman una cantidad fija de niveles, sin importar cuántos niveles tengas.$(p)Zenith cambia ambos para que cuesten la cantidad \"óptima\" de experiencia."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Para las mesas de encantamiento, se te cobrará la cantidad de experiencia como si siempre tuvieras exactamente los niveles necesarios para realizar ese encantamiento.$(p)De manera similar para los yunques, excepto que el costo se calcula desde cero (en lugar de solo los N niveles superiores)."
+        }
+    ]
+}

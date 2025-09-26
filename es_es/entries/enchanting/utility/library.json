@@ -1,0 +1,36 @@
+{
+  "name": "Biblioteca de Encantamientos",
+  "icon": "zenith:library",
+  "category": "zenith:enchanting/utility",
+  "flag": "zenith:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Una Biblioteca de Encantamientos es un sistema de almacenamiento para Encantamientos.$(p)Simplemente inserta libros encantados, y cada encantamiento en el libro se almacenará como puntos."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Cada biblioteca tiene una $(6)Capacidad de Nivel$(), que representa el nivel más alto de encantamiento que puede almacenar.$(p)Los encantamientos excedentes se anulan."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Hacer clic en un encantamiento almacenado extraerá un nivel de ese encantamiento.$(p)Hacer clic mientras mantienes Shift en un encantamiento almacenado extraerá tantos niveles como sea posible.$(p)Los libros se generan en la ranura de salida según sea necesario."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "También puedes colocar un libro en la ranura de salida para agregarle encantamientos.$(p)La biblioteca registra el nivel máximo que alguna vez se ha insertado para cada encantamiento, y solo puede extraer hasta ese nivel."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "zenith:library",
+      "text": "La $(9)Biblioteca de Encantamientos$() estándar tiene una $(6)Capacidad de Nivel$() de dieciséis (XVI)."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "zenith:ender_library",
+      "link_recipe": "True",
+      "text": "La $(9)Biblioteca de Alejandría$() tiene una $(6)Capacidad de Nivel$() de treinta y uno (XXXI).$(p)No se puede crear directamente, y debe ser creada usando $(l:zenith:enchanting/table/infusion)Encantamiento por Infusión$()."
+    }
+  ]
+}

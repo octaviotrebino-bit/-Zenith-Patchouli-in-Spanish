@@ -1,0 +1,27 @@
+{
+  "name": "Filtrado de Encantamientos",
+  "icon": "zenith:filtering_shelf",
+  "category": "zenith:enchanting/utility",
+  "flag": "zenith:enchanting",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A veces, es deseable evitar ciertos encantamientos por completo durante el proceso de encantamiento.$(p)El $(9)Estante de Filtración Acuática$() te permite hacer exactamente eso."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "zenith:filtering_shelf",
+      "title": "Filtración Acuática",
+      "text": "El estante te permite insertar hasta seis libros de encantamiento único en él, evitando que esos encantamientos aparezcan."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Para usarlo, simplemente inserta un libro de encantamiento único de un encantamiento que desees incluir en la lista negra.$(p)El encantamiento ya no estará disponible en la Mesa de Encantamientos.$(p)El estante también ganará $(eterna) y $(arcana) según el número de libros insertados."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Nota: los libros se pueden insertar de la misma manera que usas un estante de libros tallado, y el estante debe estar en una ranura de estante válida para funcionar.$(p)Los encantamientos en la lista negra se reflejarán en la $(l:zenith:enchanting/table/info)Pantalla de Información de Encantamientos$()."
+    }
+  ]
+}

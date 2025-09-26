@@ -1,0 +1,13 @@
+{
+  "name": "Aberración Cromática",
+  "icon": "minecraft:enchanted_book",
+  "category": "zenith:enchanting/enchantments",
+  "flag": "zenith:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Aberración Cromática$() es un encantamiento para tijeras.$(p)Hace que cualquier lana que sea esquilada se convierta en un color aleatorio."
+    }
+  ]
+}

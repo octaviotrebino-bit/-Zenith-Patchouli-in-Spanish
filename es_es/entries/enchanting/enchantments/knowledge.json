@@ -1,0 +1,17 @@
+{
+  "name": "Conocimiento de las Edades",
+  "icon": "minecraft:enchanted_book",
+  "category": "zenith:enchanting/enchantments",
+  "flag": "zenith:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(2)Conocimiento de las Edades$() es una obra maestra$(br)de encantamiento que se puede aplicar a espadas.$(p)Cuando matas a un mob, todas las gotas se convertirán en experiencia.$(p)Cada artículo individual tiene el mismo valor de experiencia."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Esto lo hace más eficiente para matar mobs que sueltan un gran volumen de artículos.$(p)La experiencia por artículo aumenta con el nivel de encantamiento.$(p)Como precaución, matar a un jugador no convertirá sus artículos."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Stable Footing",
+  "icon": "minecraft:enchanted_book",
+  "category": "zenith:enchanting/enchantments",
+  "flag": "zenith:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Stable Footing$() es un encantamiento para botas.$(p)Hace que la penalización de velocidad de ruptura por volar se invierta.$(p)Esto incluye todas las penalizaciones por no estar de pie en el suelo."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Cuando se combina con $(9)Aqua Affinity$(), puedes tener la velocidad de ruptura completa al nadar."
+    }
+  ]
+}

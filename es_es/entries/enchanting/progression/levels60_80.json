@@ -1,0 +1,43 @@
+{
+  "name": "Niveles 60 - 80",
+  "icon": "zenith:dormant_deepshelf",
+  "category": "zenith:enchanting/progression",
+  "flag": "zenith:enchanting",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Alcanzando el Nivel 70",
+      "recipe": "zenith:dormant_deepshelf",
+      "text": "Alcanzar el Nivel 70 requiere una Mesa de Encantamiento de Nivel 60 y acceso a Deepslate."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Alcanzando el Nivel 70",
+      "text": "Una vez que hayas creado un $(9)Dormant Deepshelf$(), necesitas infusionarlo.$(p)Esta receta de infusión requerirá algunos bloques extra para alcanzar el umbral de estadísticas.$(p)Completar la infusión te dará un $(9)Deepshelf$(), que puede llevarte al Nivel 70."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Alcanzando el Nivel 75",
+      "text": "Para alcanzar el nivel 75, necesitarás mejorar tus Deepshelves.$(p)Hacer esto requiere materiales que solo se encuentran en el $(9)Deep Dark$().$(p)Los $(9)Echo Shards$() pueden ser saqueados de la Ciudad Antigua, y $(9)Sculk$() puede ser recolectado con Silk Touch."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Alcanzando el Nivel 75",
+      "recipe": "zenith:echoing_deepshelf",
+      "recipe2": "zenith:soul_touched_deepshelf"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:warden",
+      "title": "Alcanzando el Nivel 80",
+      "scale": "0.95",
+      "text": "El último paso para el Nivel 80 requiere matar al $(9)Warden$(), lo que permite crear $(9)Sculkshelves$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Alcanzando el Nivel 80",
+      "recipe": "zenith:echoing_sculkshelf",
+      "recipe2": "zenith:soul_touched_sculkshelf"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Rebounding",
+  "icon": "minecraft:enchanted_book",
+  "category": "zenith:enchanting/enchantments",
+  "flag": "zenith:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Rebounding$() es un encantamiento para pecheras y mallas.$(p)Hace que todos los atacantes cuerpo a cuerpo sean lanzados lejos del usuario.$(p)Los niveles más altos aumentan la distancia."
+    }
+  ]
+}

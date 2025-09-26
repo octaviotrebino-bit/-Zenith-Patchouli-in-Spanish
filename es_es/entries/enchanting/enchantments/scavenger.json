@@ -1,0 +1,17 @@
+{
+  "name": "Scavenger",
+  "icon": "minecraft:enchanted_book",
+  "category": "zenith:enchanting/enchantments",
+  "flag": "zenith:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(2)Scavenger$() es un encantamiento de obra maestra para espadas.$(p)Otorga un 2,5% de probabilidad por nivel de obtener botines dos veces cuando matas a un mob.$(p)Cuando tiene éxito, será como si hubieras matado a dos de la misma entidad."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Este encantamiento funciona en todas las entidades, incluidos jefes como $(8)Withers$().$(p)También se acumula con $(9)Looting$()."
+    }
+  ]
+}

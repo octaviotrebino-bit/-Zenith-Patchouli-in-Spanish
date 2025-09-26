@@ -1,0 +1,13 @@
+{
+  "name": "Nature's Blessing",
+  "icon": "minecraft:enchanted_book",
+  "category": "zenith:enchanting/enchantments",
+  "flag": "zenith:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)La Bendición de la Naturaleza$() es un encantamiento de azada.$(p)Permite usar una azada como abono, a cambio de un costo de durabilidad.$(p)Niveles de encantamiento más altos reducen el costo de durabilidad."
+    }
+  ]
+}

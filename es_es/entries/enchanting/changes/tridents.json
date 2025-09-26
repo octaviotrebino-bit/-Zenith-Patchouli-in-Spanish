@@ -1,0 +1,20 @@
+{
+    "name": "Tridentes",
+    "icon": "minecraft:trident",
+    "category": "zenith:enchanting/changes",
+    "flag": "zenith:enchanting",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Junto con los nuevos encantamientos, los Tridentes ahora también pueden recibir $(9)Filo$(), $(9)Botín$() y $(9)Perforación$().$(p)Filo y Botín funcionan igual que en las espadas.$(p)Perforación permite que los tridentes arrojados puedan golpear enemigos adicionales."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Creación de Tridentes",
+            "item": "zenith:inert_trident",
+            "link_recipe": true,
+            "text": ".zenith. también agrega un método para crear tridentes.$(p)Simplemente crea un $(9)Tridente Inerte$() y mejóralo mediante $(l:zenith:enchanting/table/infusion)Encantamiento por Infusión$()."
+        }
+    ]
+}
