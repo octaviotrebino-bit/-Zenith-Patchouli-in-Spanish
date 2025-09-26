@@ -1,0 +1,19 @@
+{
+    "name": "Tallado de Gemas",
+    "icon": "zenith:gem_cutting_table",
+    "category": "zenith:adventure/affix_loot",
+    "flag": "zenith:adventure",
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "zenith:gem_cutting_table",
+            "text": "La $(9)Mesa de Tallado de Gemas$() se utiliza para mejorar $(l:zenith:adventure/affix_loot/gems)Gemas$().$(p)Mejorar una gema cuesta $(9)Polvo de Gemas$(), $(9)Materiales de Rareza$() y una segunda Gema de la misma rareza."
+        },
+        {
+            "title": "Costos de Mejora",
+            "type": "patchouli:text",
+            "text": "El costo de mejorar una Gema aumenta con su Rareza.$(p)Las gemas más poderosas requieren más $(9)Polvo de Gemas$() y $(9)Materiales de Rareza$() de nivel superior.$(p)El costo exacto se mostrará en la interfaz gráfica."
+        }
+    ]
+}

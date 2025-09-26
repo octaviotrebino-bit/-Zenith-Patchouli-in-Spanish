@@ -1,0 +1,17 @@
+{
+    "name": "Dureza de Armadura",
+    "icon": "minecraft:netherite_chestplate",
+    "category": "zenith:adventure/attributes",
+    "flag": "zenith:adventure",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Dureza de Armadura$() es una estadística que reduce la efectividad de la reducción de armadura entrante.$(p)Normalmente la proporcionan las piezas de armadura o los escudos."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Cada punto de Dureza de Armadura reduce la efectividad de la Perforación de Armadura y la Trituración de Armadura en un 2%, hasta un 60%.$(p)Esta función es exclusiva de Zenith. En Vanilla Minecraft, la Dureza de Armadura contribuye a la reducción de daño."
+        }
+    ]
+}

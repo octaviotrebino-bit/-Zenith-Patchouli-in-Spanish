@@ -1,0 +1,13 @@
+{
+    "name": "Daño por PV Actuales",
+    "icon": "minecraft:dragon_head",
+    "category": "zenith:adventure/attributes",
+    "flag": "zenith:adventure",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Daño por PV Actuales$() es un tipo de daño al golpear. Con cada golpe, infligirás un porcentaje de la salud actual del objetivo como daño físico adicional.$(p)Esta estadística solo se encuentra en armas pesadas."
+        }
+    ]
+}

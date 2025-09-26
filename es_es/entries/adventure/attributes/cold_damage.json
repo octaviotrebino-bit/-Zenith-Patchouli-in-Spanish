@@ -1,0 +1,13 @@
+{
+    "name": "Daño de Frío",
+    "icon": "minecraft:blue_ice",
+    "category": "zenith:adventure/attributes",
+    "flag": "zenith:adventure",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Daño de Frío$() es un daño mágico adicional aplicado a los ataques cuerpo a cuerpo. También aplica una ralentización que depende de la fuerza del daño.$(p)Se encuentra en armas cuerpo a cuerpo."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Mini-jefes",
+    "icon": "minecraft:skeleton_skull",
+    "category": "zenith:adventure/bosses",
+    "flag": "zenith:adventure",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Ocasionalmente, puedes ver mobs con nombre o potenciados a lo largo de tu mundo.$(p)Estos son probablemente $(9)Mini-jefes Apóticos$()."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Estos mobs aparecerán aleatoriamente en lugar de sus contrapartes normales.$(p)Mantente alerta."
+        }
+    ]
+}

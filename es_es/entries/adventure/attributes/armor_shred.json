@@ -1,0 +1,13 @@
+{
+    "name": "Trituración de Armadura",
+    "icon": "zenith:textures/mob_effect/sundering.png",
+    "category": "zenith:adventure/attributes",
+    "flag": "zenith:adventure",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Trituración de Armadura$() te permite ignorar un porcentaje de la armadura de tu objetivo al atacar.$(p)La $(9)Trituración de Armadura$() se aplica antes que la $(9)Perforación de Armadura$()."
+        }
+    ]
+}

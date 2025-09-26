@@ -1,0 +1,49 @@
+{
+    "name": "Reforjado",
+    "icon": "zenith:reforging_table",
+    "category": "zenith:adventure/affix_loot",
+    "flag": "zenith:adventure",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A través del potencial bruto de $(9)Materiales de Rareza$() y la versatilidad del $(9)Polvo de Gemas$(), ahora es posible reforjar un objeto con afijos completamente nuevos.$(p)El reforjado no se limita a objetos que ya tengan afijos, y puede realizarse con cualquier objeto válido."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "zenith:simple_reforging_table",
+            "text": "Para comenzar a reforjar, fabrica una $(#5555FF)Mesa de Reforjado Simple$(), que permite reforjar objetos de hasta rareza $(#5555FF)Rara$()."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Ranuras de Entrada",
+            "text": "La Mesa de Reforjado tiene tres ranuras de entrada.$(p)La ranura central sostiene el objeto que deseas reforjar.$(p)La ranura superior izquierda sostiene $(9)Materiales de Rareza$() de la rareza con la que deseas reforjar."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "zenith:sigil_of_rebirth",
+            "title": "Ranuras de Entrada",
+            "text": "La ranura inferior derecha sostiene $(9)Sigilos de Renacimiento$(), un objeto combustible único usado durante el proceso de reforjado."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Reforjado",
+            "text": "Similar a una Mesa de Encantamientos, al reforjar se ofrecen tres opciones.$(p)Cada opción representa una posible nueva forma del objeto que se está reforjando.$(p)Ninguna opción es inherentemente más fuerte que las demás."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Reforjado",
+            "text": "Para cada rareza, existe un costo base de experiencia, sigilos y materiales. Las ranuras de opciones adicionales cobran el doble o triple del costo base.$(p)Para reforjar tu objeto, simplemente haz clic en la opción deseada."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "zenith:reforging_table",
+            "text": "Para reforjar objetos de rareza $(#BB00BB)Épica$() o superior, necesitarás mejorar tu $(#5555FF)Mesa de Reforjado Simple$() a una $(#BB00BB)Mesa de Reforjado$()."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Notas",
+            "text": "Los objetos que aún no tienen afijos pueden ser reforjados.$(p)Los objetos pueden ser reforjados múltiples veces.$(p)Los modpacks pueden cambiar los costos o impedir el reforjado en ciertas rarezas."
+        }
+    ]
+}

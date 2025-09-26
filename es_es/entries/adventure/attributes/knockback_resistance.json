@@ -1,0 +1,13 @@
+{
+    "name": "Resistencia al Empuje",
+    "icon": "minecraft:shulker_shell",
+    "category": "zenith:adventure/attributes",
+    "flag": "zenith:adventure",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Resistencia al Empuje$() es qué tan resistente eres a ser empujado por los ataques. Con el valor máximo, eres inmune al empuje.$(p)Normalmente la proporcionan las armaduras o los escudos."
+        }
+    ]
+}

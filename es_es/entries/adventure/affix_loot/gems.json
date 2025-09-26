@@ -1,0 +1,39 @@
+{
+    "name": "Gemas",
+    "icon": "zenith:gem",
+    "category": "zenith:adventure/affix_loot",
+    "flag": "zenith:adventure",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Una $(9)Gema$() es un cristal de fuerza condensada.$(p)Cuando se incrusta en un objeto con afijos, una gema otorgará un poderoso bono.$(p)Las gemas pueden dar distintos bonos en diferentes objetos, y se pueden mejorar."
+        },
+        {
+            "title": "Rareza",
+            "type": "patchouli:text",
+            "text": "Al igual que un objeto con afijo, cada gema tiene una $(l:zenith:adventure/affix_loot/rarities)Rareza$().$(p)La rareza determina por sí sola la fuerza de la gema, y las gemas de mayor rareza son más costosas de mejorar.$(p)Las gemas no se pueden mejorar más allá de la rareza Antigua."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Obtener Gemas",
+            "text": "Las gemas se pueden encontrar en cofres de botín, y rara vez al matar mobs. Sin embargo, para que una gema caiga, el asesino debe ser un jugador real, no una máquina o fuente de automatización.$(p)Las gemas son más probables al derrotar jefes."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Incrustar Gemas",
+            "text": "Para incrustar una gema en un objeto, combina ambos en una Mesa de Herrería.$(p)Cada gema indica en qué objetos puede encajar.$(p)Algunas gemas son $(#C73912)Únicas$(), lo que significa que solo una copia de esa gema puede incrustarse en un objeto."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Quitar Gemas",
+            "text": "Quitar gemas de un objeto era un proceso difícil, pero algunos alquimistas ingeniosos descubrieron cómo hacerlo.$(p)Sus notas se detallan en la página siguiente."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "zenith:sigil_of_withdrawal",
+            "title": "Sigilo de Retiro",
+            "text": "Combina un objeto con gemas incrustadas con un $(9)Sigilo de Retiro$() en una mesa de herrería para quitar las gemas incrustadas. El objeto y todas las gemas serán devueltos."
+        }
+    ]
+}

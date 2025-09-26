@@ -1,0 +1,13 @@
+{
+    "name": "Generadores de Enjambre",
+    "icon": "minecraft:spider_eye",
+    "category": "zenith:adventure/rogue_spawners",
+    "flag": "zenith:adventure",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Un generador de enjambre es un sub-tipo vil de generador rebelde que crea mobs en grandes cantidades muy rápidamente.$(p)Normalmente están limitados a mobs más débiles, a menudo de tipo arácnido, por lo que no resultan aterradoramente abrumadores."
+        }
+    ]
+}

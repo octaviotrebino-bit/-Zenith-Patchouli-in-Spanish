@@ -1,0 +1,44 @@
+{
+    "name": "Recuperación",
+    "icon": "zenith:salvaging_table",
+    "category": "zenith:adventure/affix_loot",
+    "flag": "zenith:adventure",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "zenith:salvaging_table",
+            "text": "La $(9)Mesa de Recuperación$() se utiliza para descomponer objetos con afijos en sus correspondientes $(9)Materiales de Rareza$()."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "zenith:common_material",
+            "link_recipe": true,
+            "text": "Un pedazo de metal de forma extraña e irreconocible.$(p)Este material se obtiene al recuperar objetos comunes."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "zenith:uncommon_material",
+            "link_recipe": true,
+            "text": "Un tejido increíblemente duradero, desgastado por incontables edades. No presenta ni un solo desgarro.$(p)Se encuentra al recuperar objetos poco comunes."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "zenith:rare_material",
+            "link_recipe": true,
+            "text": "Un fragmento del cristal más brillante que jamás haya existido. Aunque es solo un fragmento, contiene un poderoso poder mágico.$(p)Se obtiene al recuperar objetos raros."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "zenith:epic_material",
+            "link_recipe": true,
+            "text": "Granos de arena de un reino mágico, donde la magia arcana distorsiona toda vida.$(p)Recuperar un objeto épico los reduce a esta forma."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "zenith:mythic_material",
+            "link_recipe": true,
+            "text": "Una perla de energía divina purificada. El inmenso poder sellado en su interior la hace bastante volátil.$(p)Estas extraordinarias creaciones solo pueden obtenerse al recuperar objetos míticos."
+        }
+    ]
+}

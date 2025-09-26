@@ -1,0 +1,38 @@
+{
+    "name": "Afijos",
+    "icon": "minecraft:experience_bottle",
+    "category": "zenith:adventure/affix_loot",
+    "flag": "zenith:adventure",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Un $(6)Afijo$() es la fuerza motriz detrás de los objetos con afijos. Cada afijo es muy similar a un encantamiento, proporcionando un bono específico al objeto al que está aplicado.$(p)Este libro no listará todos los afijos, eso queda para que lo descubras, pero ayudará a explicarlos."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Tipos de Afijos",
+            "text": "Hay varios tipos de afijos, cada tipo con un conjunto específico de funcionalidades que puede proporcionar.$(p)Los tipos de afijos que se aplican a un objeto dependen de la $(l:zenith:adventure/affix_loot/rarities)Rareza$() del objeto."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Afijos de estadísticas",
+            "text": "El tipo de afijo más común son los afijos de estadísticas. Estos afijos proporcionan un bono simple a un atributo específico y están disponibles en todas las rarezas. Las rarezas más altas reciben afijos de estadísticas adicionales."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Afijos de efecto",
+            "text": "Los afijos de efecto son el tipo de afijo más interesante. Tienen libertad para añadir todo tipo de funcionalidades adicionales a tus objetos, desde simples bonos de utilidad hasta potentes efectos de combate.$(p)Solo pueden encontrarse en objetos de rareza Raro o superior."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Ranuras",
+            "text": "Una Ranura es un tipo especial de afijo que simplemente proporciona un receptáculo para una $(l:zenith:adventure/affix_loot/gems)Gema$().$(p)Las gemas pueden otorgar grandes bonificaciones, pero pueden ser difíciles de encontrar."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "El afijo de Durabilidad",
+            "text": "El afijo de Durabilidad hace que un objeto sea más resistente al daño, y está presente en todos los objetos de rareza Raro o superior.$(p)Se aplica después de todas las demás resistencias al daño, volviéndose multiplicativo con Irrompible."
+        }
+    ]
+}
