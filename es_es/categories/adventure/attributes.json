@@ -1,0 +1,7 @@
+{
+    "name": "Atributos",
+    "description": "Además de los atributos originales de Minecraft, Zenith añade una gran variedad de nuevos.$(p)Esta sección los detalla a todos.",
+    "icon": "minecraft:diamond_chestplate",
+    "flag": "zenith:adventure",
+    "parent": "zenith:adventure/adventure"
+}

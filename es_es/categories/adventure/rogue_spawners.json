@@ -1,0 +1,7 @@
+{
+    "name": "Generadores Pícaros",
+    "description": "En las cuevas se pueden encontrar de manera dispersa generadores solitarios, cubiertos por un bloque resistente y ocultando un cofre debajo.$(p)Como no tienen origen, propósito ni dueño conocido, nos referimos a ellos como $(9)Generadores Pícaros$().",
+    "icon": "minecraft:spawner",
+    "flag": "zenith:adventure",
+    "parent": "zenith:adventure/adventure"
+}
