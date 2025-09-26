@@ -1,0 +1,13 @@
+{
+    "name": "Curios",
+    "icon": "curios:textures/slot/empty_charm_slot.png",
+    "category": "zenith:potion/charms",
+    "flag": "&zenith:potion,zenith:curiosloaded",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Cuando tengas $(9)Curios$() instalado, puedes equipar los amuletos de pociones en la ranura $(9)Amuleto$().$(p)Funcionarán de la misma manera que en el inventario."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Prisa",
+  "icon": "minecraft:textures/mob_effect/haste.png",
+  "category": "zenith:potion/recipes",
+  "flag": "zenith:potion",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Prisa$() es otro efecto útil que no tiene receta en la versión básica.$(p)Cada nivel otorga un +20% de velocidad de minería."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Receta de Elaboración",
+      "item": "minecraft:mushroom_stew",
+      "text": "Esta poción se puede elaborar con una Poción Inusual y un poco de Sopa de Champiñones.$(p)Se puede extender, fortalecer o convertir en una poción de salpicadura con los ingredientes habituales."
+    }
+  ]
+}

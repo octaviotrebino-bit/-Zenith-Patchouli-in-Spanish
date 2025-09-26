@@ -1,0 +1,20 @@
+{
+  "name": "Suerte",
+  "icon": "minecraft:textures/mob_effect/luck.png",
+  "category": "zenith:potion/recipes",
+  "flag": "zenith:potion",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(6)Suerte$() es un efecto muy peculiar.$(p)Tener más suerte significa que puedes recibir mejor botín de ciertas fuentes.$(p)Desafortunadamente, no hay forma de saber qué fuentes de botín están impactadas por $(6)Suerte$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Receta de Poción",
+      "item": "zenith:lucky_foot",
+      "link_recipe": "True",
+      "text": "Esta poción se puede elaborar con una Poción Extraña y un Pie de Conejo Afortunado.$(p)El Pie de Conejo Afortunado se deja caer raramente por los conejos."
+    }
+  ]
+}

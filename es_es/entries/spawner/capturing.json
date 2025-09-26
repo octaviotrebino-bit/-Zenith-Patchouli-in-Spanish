@@ -1,0 +1,19 @@
+{
+    "name": "Captura",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:spawner/spawner",
+    "flag": "zenith:spawner",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Los Generadores de Mobs pueden cambiar su entidad usando un $(9)Huevo de Spawn$().$(p)Normalmente, estos son inalcanzables. Para solucionarlo, Zenith añade el encantamiento $(9)Captura$() para espadas."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:cow_spawn_egg",
+            "title": "Huevos de Spawn",
+            "text": "Cada nivel del encantamiento $(9)Captura$() te da un 0.4% de probabilidad de que las entidades suelten su huevo de spawn al morir.$(p)Las entidades sin un objeto huevo de spawn (como se ve en JEI) no pueden soltar uno."
+        }
+    ]
+}

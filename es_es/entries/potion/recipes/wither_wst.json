@@ -1,0 +1,19 @@
+{
+  "name": "Wither",
+  "icon": "minecraft:textures/mob_effect/wither.png",
+  "category": "zenith:potion/recipes",
+  "flag": "&zenith:potion,zenith:wstloaded",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(c)Wither$() es un efecto hostil que no se puede elaborar normalmente.$(p)Mientras estés afectado por él, recibirás daño cada tick.$(p)A diferencia del Veneno, este daño es letal."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Receta de Elaboración",
+      "item": "wstweaks:fragment",
+      "text": "Esta poción se puede elaborar con una Poción Inusual y un Fragmento de Calavera de Wither.$(p)Se puede extender, fortalecer o convertir en una poción de salpicadura con los ingredientes habituales."
+    }
+  ]
+}

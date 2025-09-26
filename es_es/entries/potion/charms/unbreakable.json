@@ -1,0 +1,17 @@
+{
+    "name": "Amuletos Indestructibles",
+    "icon": "minecraft:enchanting_table",
+    "category": "zenith:potion/charms",
+    "flag": "&zenith:potion,zenith:enchanting",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Mediante $(l:zenith:enchanting/table/infusion)Encantamiento por Infusión$(), los amuletos pueden volverse Indestructibles.$(p)Con esto, puedes tener duración ilimitada de cualquier efecto de poción."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "La receta de infusión para los amuletos Indestructibles es bastante difícil.$(p)Necesitarás un conocimiento sólido de $(l:zenith:enchanting/table/stats)Estadísticas de Encantamiento$() para poder completarla."
+        }
+    ]
+}
